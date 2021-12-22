@@ -37,7 +37,7 @@ Integrated MSc | August 2011 - May 2016
 Graduate student | August 2011 - Now
 
 ## Publications
-\*(asterisk) : First OR joint first author  
+**\*(asterisk) : First OR joint first author**  
 1. \***Arijit Ghosh**, Pragya Sharma, Shephali Dansana, Vasu Sheeba. "Evidence for coevolution of masking and circadian phase in *Drosophila melanogaster*". Journal of biological rhythms 36, no. 3 (2021): 254-270.  
 2. Tushar Kanta Acharya, Satish Kumar, Nikhil Tiwari, \***Arijit Ghosh**, Ankit Tiwari, Subhashis Pal, Rakesh Kumar Majhi, Ashutosh Kumar, Rashmita Das, Abhishek Singh, Pradip K. Majhi, Naibedya Chattopadhyay, Luna Goswami, Chandan Goswami. "TRPM8 channel inhibitor-encapsulated hydrogel as a tunable surface for bone tissue engineering". Scientific Reports 11, 3730 (2021).  
 3. Lakshman Abhilash, **Arijit Ghosh**, and Vasu Sheeba. "Selection for timing of eclosion results in co-evolution of temperature responsiveness in *Drosophila melanogaster*". Journal of biological rhythms 34, no. 6 (2019): 596-609.  
