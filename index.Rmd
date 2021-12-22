@@ -1,0 +1,56 @@
+---
+title: "Arijit Ghosh"
+image: "AG.jpg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.co.in/citations?user=Nuaw_FoAAAAJ&hl=en"
+  - label: GitHub
+    url: "https://github.com/orijitghosh"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-7910-3170"
+  - label: Twitter
+    url: "https://twitter.com/TheBongBalok"
+  - label: Research Gate
+    url: "https://www.researchgate.net/profile/Arijit_Ghosh8" 
+  - label: Email me
+    url: "arijitghosh2009@gmail.com"
+  - label: CV
+    url: "Arijit_CV_June21.pdf"   
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Currently I am working on understanding the genetic and molecular mechanisms underlying complex behaviors. My studies use diverse methodologies - from behavioral screening to whole-genome sequencing. I am trying to understand the genetic diversity that gives rise to different chronotypes in organisms, mainly through large-scale genomic deletion screening and pooled-sequencing. I am also interested in masking - a non-clock-dependent timing mechanism. I love to code, and my recent endeavors resulted in the development of two full-scale shiny apps for time-series analysis ([VANESSA](https://github.com/orijitghosh/VANESSA-DAM)).
+
+Apart from my work in the lab, I am a serial chiller, leisure photographer, and connoisseur of sci-fi (old and new) and good food (I am rated a super foodie by Zomato)! For a full list of my publications, check out my [Google Scholar profile](https://scholar.google.co.in/citations?user=Nuaw_FoAAAAJ&hl=en), for my publicly available codes, check out my [Github page](https://github.com/orijitghosh).
+
+## Education
+
+**Homi Bhaba National Institute (Program conducted at National Institute of Science Education and Research)** | Bhubaneswar, India
+
+Integrated MSc | August 2011 - May 2016
+
+**Jawaharlal Nehru Centre for Advanced Scientific Research** | Bangalore, India
+
+Graduate student | August 2011 - Now
+
+## Publications
+\*(asterisk) : First OR joint first author  
+1. \***Arijit Ghosh**, Pragya Sharma, Shephali Dansana, Vasu Sheeba. "Evidence for coevolution of masking and circadian phase in *Drosophila melanogaster*". Journal of biological rhythms 36, no. 3 (2021): 254-270.  
+2. Tushar Kanta Acharya, Satish Kumar, Nikhil Tiwari, \***Arijit Ghosh**, Ankit Tiwari, Subhashis Pal, Rakesh Kumar Majhi, Ashutosh Kumar, Rashmita Das, Abhishek Singh, Pradip K. Majhi, Naibedya Chattopadhyay, Luna Goswami, Chandan Goswami. "TRPM8 channel inhibitor-encapsulated hydrogel as a tunable surface for bone tissue engineering". Scientific Reports 11, 3730 (2021).  
+3. Lakshman Abhilash, **Arijit Ghosh**, and Vasu Sheeba. "Selection for timing of eclosion results in co-evolution of temperature responsiveness in *Drosophila melanogaster*". Journal of biological rhythms 34, no. 6 (2019): 596-609.  
+4. Nabanita Roy Chattopadhyay, Koustav Chatterjee, Nikhil Tiwari, Sudipta Chakrabarti, Sushil Kumar Sahu, Sankar Deb Roy, **Arijit Ghosh**, R Rajendra Reddy, Piyanki Das, Sudipa Mal, Basab Bijay Karnar, Ashok Kumar Das, Sam Tsering, Komri Riba, Zoreng puii, Eric Zomawia, Y Indibar Singh, Amol Ratnakar Suryawanshi, Abhishek Kumar, Dipyaman Ganguly, Chandan Goswami, Tathagata Choudhuri. "TLR9 polymorphisms might contribute to the ethnicity bias for EBV-infected Nasopharyngeal Carcinoma". iScience 23, no. 3 (2020): 100937.  
+5. Somdatta Saha, Samikshya Sucharita, Rakesh Kumar Majhi, Ankit Tiwari, **Arijit Ghosh**, Sunil Kumar Pradhan, Bijay Kumar Patra et al. "TRPA1 is selected as a semi-conserved channel during vertebrate evolution due to its involvement in spermatogenesis". Biochemical and biophysical research communications 512, no. 2 (2019): 295-302.  
+6. Sridhar Sanyasi, Satish Kumar, **Arijit Ghosh**, Rakesh Kumar Majhi, Navneet Kaur, Priyanka Choudhury, Udai P. Singh, Chandan Goswami, and Luna Goswami. "A modified polysaccharide-based hydrogel for enhanced osteogenic maturation and mineralization independent of differentiation factors". Macromolecular bioscience 17, no. 3 (2017): 1600268.  
+7.  Somdatta Saha, \***Arijit Ghosh**, Nikhil Tiwari, Ashutosh Kumar, Abhishek Kumar, and Chandan Goswami. "Preferential selection of Arginine at the lipid-water-interface of TRPV1 during vertebrate evolution correlates with its snorkeling behaviour and cholesterol interaction". Scientific reports 7, no. 1 (2017): 1-21.  
+8. \***Arijit Ghosh**, Navneet Kaur, Abhishek Kumar, and Chandan Goswami. "Why individual thermo sensation and pain perception varies? Clue of disruptive mutations in TRPVs from 2504 human genome data". Channels 10, no. 5 (2016): 339-345.  
+9. Rakesh Kumar Majhi, Somdatta Saha, Ashutosh Kumar, **Arijit Ghosh**, Nirlipta Swain, Luna Goswami, Pratyush Mohapatra et al. "Expression of temperature-sensitive ion channel TRPM8 in sperm cells correlates with vertebrate evolution". PeerJ 3 (2015): e1310.  
+
+## PhD research (2016-now)
+**Genetic and behavioural characterization of early and late phase of emergence in populations of fruitflies *Drosophila melanogaster***
+
+## Master’s dissertation research (2013-2016)
+**Exploring role of thermosensitive TRP channels in osteogenesis**
+
