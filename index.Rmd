@@ -13,7 +13,7 @@ links:
   - label: Research Gate
     url: "https://www.researchgate.net/profile/Arijit_Ghosh8" 
   - label: Email me
-    url: "arijitghosh2009@gmail.com"
+    url: "mailto:arijitghosh2009@gmail.com"
   - label: CV
     url: "Arijit_CV_June21.pdf"   
 output:
