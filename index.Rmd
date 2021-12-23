@@ -20,7 +20,7 @@ output:
   postcards::solana
 ---
  
-## Bio
+## About me
 
 Currently I am working on understanding the genetic and molecular mechanisms underlying complex behaviors at the [Chronobiology and Behavioural Neurogenetics Laboratory](https://www.clockclub.org/), JNCASR. My studies use diverse methodologies - from behavioral screening to whole-genome sequencing. I am trying to understand the genetic diversity that gives rise to different chronotypes in organisms, mainly through large-scale genomic deletion screening and pooled-sequencing. I am also interested in masking - a non-clock-dependent timing mechanism. I love to code, and my recent endeavors resulted in the development of two full-scale shiny apps for time-series analysis ([VANESSA](https://github.com/orijitghosh/VANESSA-DAM)).
 
