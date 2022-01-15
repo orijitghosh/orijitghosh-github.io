@@ -16,7 +16,7 @@ links:
   - label: Email me
     url: "mailto:arijitghosh2009@gmail.com"
   - label: CV
-    url: "Arijit_CV_June21.pdf"   
+    url: "Arijit_CV_Jan2022.pdf"   
 output:
   postcards::solana
 ---
