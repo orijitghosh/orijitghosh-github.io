@@ -38,7 +38,7 @@ Apart from my work in the lab, I am a serial chiller, leisure photographer, conn
 ### **Publications**
 ###### **\*(asterisk) : First OR joint first author**  
 
-1. **\*Arijit Ghosh**, Vasu Sheeba. "VANESSA – Shiny apps for accelerated time-series analysis and visualization of Drosophila circadian rhythm and sleep data." Journal of biological rhythms, accepted, online ahead of print, (2022).
+1. **\*Arijit Ghosh**, Vasu Sheeba. "VANESSA – Shiny apps for accelerated time-series analysis and visualization of *Drosophila* circadian rhythm and sleep data." Journal of biological rhythms, accepted, online ahead of print, (2022).
 [Link](https://journals.sagepub.com/doi/full/10.1177/07487304221077662)  
 2. **\*Arijit Ghosh**, Pragya Sharma, Shephali Dansana, Vasu Sheeba. "Evidence for coevolution of masking and circadian phase in *Drosophila melanogaster*". Journal of biological rhythms 36, no. 3 (2021): 254-270. [Link](https://journals.sagepub.com/doi/full/10.1177/0748730421997262)  
 3. Tushar Kanta Acharya, Satish Kumar, Nikhil Tiwari, **\*Arijit Ghosh**, Ankit Tiwari, Subhashis Pal, Rakesh Kumar Majhi, Ashutosh Kumar, Rashmita Das, Abhishek Singh, Pradip K. Majhi, Naibedya Chattopadhyay, Luna Goswami, Chandan Goswami. "TRPM8 channel inhibitor-encapsulated hydrogel as a tunable surface for bone tissue engineering". Scientific Reports 11, 3730 (2021). [Link](https://www.nature.com/articles/s41598-021-81041-w)  
