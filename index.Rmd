@@ -1,6 +1,6 @@
 ---
 title: "Arijit Ghosh"
-subtitle: "**Graduate student (MSc)**"
+subtitle: "**PhD (Chronobiology)**"
 image: "AG.jpg"
 links:
   - label: Google Scholar
@@ -16,7 +16,7 @@ links:
   - label: Email me
     url: "mailto:arijitghosh2009@gmail.com"
   - label: CV
-    url: "Arijit_CV_Feb2022.pdf"   
+    url: "Arijit_CV_June22.pdf"   
 output:
   postcards::solana
 ---
@@ -33,7 +33,7 @@ Apart from my work in the lab, I am a serial chiller, leisure photographer, conn
 *Integrated MSc in Life Sciences* | August 2011 - May 2016
 
 **Jawaharlal Nehru Centre for Advanced Scientific Research** | Bangalore, India  
-*Graduate student at the Neuroscience Unit* | August 2016 - Now
+*Graduate student at the Neuroscience Unit* | August 2016 - June 2022
 
 ### **Publications**
 ###### **\*(asterisk) : First OR joint first author**  
