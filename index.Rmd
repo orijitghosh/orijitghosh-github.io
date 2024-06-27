@@ -23,24 +23,24 @@ output:
  
 ### **About me**
 
-Currently I am visiting postdoctoral fellow at the [Laboratory of Systems Genetics, SBC, NHLBI at Bethesda, Maryland](https://www.nhlbi.nih.gov/). I am interested in studying the genetic network of the interaction between circadian clock and the sleep homeostat and how these interactions shape various sleep phenotypes. In my PhD, I worked on understanding the genetic and molecular mechanisms underlying complex behaviors, such as timing of a behavior at the [Chronobiology and Behavioural Neurogenetics Laboratory](https://www.clockclub.org/), JNCASR. My studies use diverse methodologies - from behavioral screening to next-generation sequencing. Previously, I have also worked on thermo-sensitive Transient Receptor Potential (TRP) channels and their role in osteogenesis, using rodent models, primary bone cells, pharmacological modulators, and molecular dynamics during my masters studies at [NISER](https://www.niser.ac.in/).
+Currently I am visiting postdoctoral fellow at the [Laboratory of Systems Genetics, SBC, NHLBI at Bethesda, Maryland](https://www.nhlbi.nih.gov/). I study the genetic network of the interaction between circadian clock and the sleep homeostat and how these interactions shape various sleep phenotypes. In my PhD, I worked on understanding the genetic and molecular mechanisms underlying complex behaviors, such as timing of a behavior at the [Chronobiology and Behavioural Neurogenetics Laboratory](https://www.clockclub.org/), JNCASR. My studies use diverse methodologies - from statistical modeling of behavior to next-generation sequencing. Previously, I have also worked on thermo-sensitive Transient Receptor Potential (TRP) channels and their role in osteogenesis, using rodent models, primary bone cells, pharmacological modulators, and molecular dynamics during my masters studies at [NISER](https://www.niser.ac.in/).
 
-Apart from my work in the lab, I am a serial chiller, leisure photographer, connoisseur of sci-fi (old and new) and good food (I am rated a super foodie by Zomato)! For a full list of my publications, check out my [Google Scholar profile](https://scholar.google.co.in/citations?user=Nuaw_FoAAAAJ&hl=en), for my publicly available codes, check out my [Github page](https://github.com/orijitghosh).
+Apart from my work in the lab, I am a leisure photographer, connoisseur of sci-fi (old and new) and good food! For a full list of my publications, check out my [Google Scholar profile](https://scholar.google.co.in/citations?user=Nuaw_FoAAAAJ&hl=en), for my publicly available codes, check out my [Github page](https://github.com/orijitghosh).
 
 ### **Education**
 
+**Jawaharlal Nehru Centre for Advanced Scientific Research** | Bangalore, India  
+*Graduate student at the Neuroscience Unit* | August 2016 - June 2022
 **Homi Bhaba National Institute (Program conducted at National Institute of Science Education and Research)** | Bhubaneswar, India  
 *Integrated MSc in Life Sciences* | August 2011 - May 2016
 
-**Jawaharlal Nehru Centre for Advanced Scientific Research** | Bangalore, India  
-*Graduate student at the Neuroscience Unit* | August 2016 - June 2022
 
 ### **Publications**
 ###### **\*(asterisk) : First OR joint first author**  
 
 1. Sara Milojevic, **Arijit Ghosh**, Vedrana Makevic, Maja Stojkovic, Maria Capovilla, Dejan B. Budimirovic, Dragana Protic. “Circadian Rhythm and Sleep Analyses in a Fruit Fly Model of Fragile X Syndrome Using a Video-Based Automated Behavioral Research System”. Preprints, 2024052119 (2024). [Link](https://www.preprints.org/manuscript/202405.2119/v1)
 2. Narendra Pratap Singh, **Arijit Ghosh**, Susan T. Harbison. “The Genetics of sleep in Drosophila” in Genetics of Sleep and Sleep Disorders. (2024). (n.p.): Springer International Publishing. [Link](https://www.nhlbi.nih.gov/science/systems-genetics#Meet-the-Team)
-3. Tushar Kanta Acharya, Subhashis Pal, **Arijit Ghosh**, Shamit Kumar, Naibedya Chattopadhyay, Chandan Goswami. “TRPV4 regulates osteoblast differentiation and mitochondrial function that are relevant for channelopathy”. Frontiers in Cell and Developmental Biology, 11 (2023). [Link](https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2023.1066788/full)
+3. Tushar Kanta Acharya, Subhashis Pal, **\*Arijit Ghosh**, Shamit Kumar, Naibedya Chattopadhyay, Chandan Goswami. “TRPV4 regulates osteoblast differentiation and mitochondrial function that are relevant for channelopathy”. Frontiers in Cell and Developmental Biology, 11 (2023). [Link](https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2023.1066788/full)
 4. **\*Arijit Ghosh**, Vasu Sheeba. "VANESSA – Shiny apps for accelerated time-series analysis and visualization of *Drosophila* circadian rhythm and sleep data." Journal of biological rhythms, accepted, online ahead of print, (2022).
 [Link](https://journals.sagepub.com/doi/full/10.1177/07487304221077662)  
 5. **\*Arijit Ghosh**, Pragya Sharma, Shephali Dansana, Vasu Sheeba. "Evidence for coevolution of masking and circadian phase in *Drosophila melanogaster*". Journal of biological rhythms 36, no. 3 (2021): 254-270. [Link](https://journals.sagepub.com/doi/full/10.1177/0748730421997262)  
