@@ -56,18 +56,18 @@ Apart from my work in the lab, I am a leisure photographer, connoisseur of sci-f
 
 ### **Work experience**
 ###### **Postdoctoral research (2022-Now)**
-1. Developed hidden Markov model based frameworks to classify fly sleep into distinct states
-2. Developed algorithms to extract circadian timeseries parameters from large datasets
-3. Conducted a genome wide association study of circadian phases in the *Drosophila* Genetic Reference Panel
-4. Contributed to a book chapter on “The genetics of sleep in *Drosophila*”, and currently writing multiple research articles on original research work
+- Developed hidden Markov model based frameworks to classify fly sleep into distinct states
+- Developed algorithms to extract circadian timeseries parameters from large datasets
+- Conducted a genome wide association study of circadian phases in the *Drosophila* Genetic Reference Panel
+- Contributed to a book chapter on “The genetics of sleep in *Drosophila*”, and currently writing multiple research articles on original research work
 
 ###### **Graduate research (2016-2022)**
-1. Conducted original research on classical chronobiology, sleep, and population genomics of circadian phases and published research articles
-2. Published open source apps for high throughout automated analysis of circadian rhythms and sleep
-3. Contributed to organizing multiple academic conference and science outreach activities on and off campus
+- Conducted original research on classical chronobiology, sleep, and population genomics of circadian phases and published research articles
+- Published open source apps for high throughout automated analysis of circadian rhythms and sleep
+- Contributed to organizing multiple academic conference and science outreach activities on and off campus
 
 ###### **Masters and undergraduate research (2013-2016)**
-1. Established primary bone cell, immune cell, and stem cell cultures in the lab
-2. Established novel molecular dynamics simulation routines in the lab
-3. Established novel histological and imaging-focused assays in the lab for bone tissue engineering
-4. Worked collaboratively with other lab members on different bioinformatics projects
+- Established primary bone cell, immune cell, and stem cell cultures in the lab
+- Established novel molecular dynamics simulation routines in the lab
+- Established novel histological and imaging-focused assays in the lab for bone tissue engineering
+-Worked collaboratively with other lab members on different bioinformatics projects
