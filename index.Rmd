@@ -16,7 +16,7 @@ links:
   - label: Email me
     url: "mailto:arijitghosh2009@gmail.com"
   - label: CV
-    url: "Arijit_CVFull_June2024.pdf"   
+    url: "Arijit_CVFull_July2024.pdf"   
 output:
   postcards::solana
 ---
@@ -38,8 +38,10 @@ Apart from my work in the lab, I am a leisure photographer, connoisseur of sci-f
 ### **Publications**
 ###### **\*(asterisk) : First OR joint first author**  
 
-1. Sara Milojevic, **Arijit Ghosh**, Vedrana Makevic, Maja Stojkovic, Maria Capovilla, Dejan B. Budimirovic, Dragana Protic. “Circadian Rhythm and Sleep Analyses in a Fruit Fly Model of Fragile X Syndrome Using a Video-Based Automated Behavioral Research System”. Preprints, 2024052119 (2024). [Link](https://www.preprints.org/manuscript/202405.2119/v1)
-2. Narendra Pratap Singh, **Arijit Ghosh**, Susan T. Harbison. “The Genetics of sleep in Drosophila” in Genetics of Sleep and Sleep Disorders. (2024). (n.p.): Springer International Publishing. [Link](https://www.nhlbi.nih.gov/science/systems-genetics#Meet-the-Team)
+1. Sara Milojevic, **Arijit Ghosh**, Vedrana Makevic, Maja Stojkovic, Maria Capovilla, Tomislav Tosti, Dejan B. Budimirovic, Dragana Protic. “Circadian Rhythm and Sleep Analyses in a Fruit Fly Model of Fragile X Syndrome Using a Video-Based Automated Behavioral Research System”. International Journal of Molecular Sciences,
+25(14):7949 (2024). [Link](https://www.mdpi.com/1422-0067/25/14/7949)
+2. Narendra Pratap Singh, **Arijit Ghosh**, Susan T. Harbison. “The Genetics of sleep in *Drosophila*” in Genetics of Sleep and Sleep Disorders. In Philip
+Gehrman, Alex C. Keene, Struan F. Grant (eds) Genetics of Sleep and Sleep Disorders, Springer, Cham (2024). [Link](https://link.springer.com/chapter/10.1007/978-3-031-62723-1_2)
 3. Tushar Kanta Acharya, Subhashis Pal, **\*Arijit Ghosh**, Shamit Kumar, Naibedya Chattopadhyay, Chandan Goswami. “TRPV4 regulates osteoblast differentiation and mitochondrial function that are relevant for channelopathy”. Frontiers in Cell and Developmental Biology, 11 (2023). [Link](https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2023.1066788/full)
 4. **\*Arijit Ghosh**, Vasu Sheeba. "VANESSA – Shiny apps for accelerated time-series analysis and visualization of *Drosophila* circadian rhythm and sleep data." Journal of biological rhythms, accepted, online ahead of print, (2022).
 [Link](https://journals.sagepub.com/doi/full/10.1177/07487304221077662)  
