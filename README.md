@@ -1,2 +1,2 @@
-# orijitghosh.github.io
-Personal website for Arijit Ghosh. available at @https://orijitghosh.github.io/
+# retired-orijitghosh.github.io
+Retired repo for the old one-page personal website for Arijit Ghosh.
